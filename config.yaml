@@ -1,6 +1,6 @@
-baseurl: /
+baseurl: http://echobuf.me/
 languageCode: en-us
-title: A Hugo website
+title: Long Long A Going
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -17,14 +17,14 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
+      url: https://github.com/echobuf
     - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://twitter.com/Excalib51978856
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: A website built through Hugo and blogdown.
-  favicon: favicon.ico
+  favicon: githubAvatar.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
     - r
@@ -34,7 +34,7 @@ params:
   logo:
     alt: Logo
     height: 50
-    url: logo.png
+    url: hugoBlogLogo.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
